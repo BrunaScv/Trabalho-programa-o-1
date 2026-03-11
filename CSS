@@ -1,0 +1,33 @@
+html {
+    background-color: brown;
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+body{
+    background-color: rgb(148, 79, 79);
+ width: 1000px;
+    margin: 0 auto;
+    border-radius: 5%;
+  border: 5px solid rgb(113, 10, 10);
+  padding: 0px 100px 100px 100px;
+}
+
+h1{
+    margin: 0;
+    padding: 20px ;
+    text-align: end;
+    font-size: 60px;
+}
+.meu{
+   
+}
+.jogos{
+ display: flex;
+ gap:10px;
+ justify-content: end;
+}
+.jogos img{
+    max-width: 100%;
+    height: auto;
+}
